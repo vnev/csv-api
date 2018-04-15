@@ -1,0 +1,19 @@
+{
+  "name": "cointheta",
+  "version": "1.0.0",
+  "description": "Vedant Nevetia's application to Cointheta",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedant Nevetia <nevetia.vedant@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "fast-csv": "^2.4.1",
+    "multer": "^1.3.0",
+    "sqlite3": "^4.0.0"
+  }
+}
